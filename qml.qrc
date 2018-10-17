@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EthAvatar.qml</file>
+        <file>AvatarLine.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
